@@ -185,6 +185,7 @@
 - Location: İstanbul, Turkey
 - Bio: 💻 Software Developer .
 - Github: https://github.com/ismetbatansu
+***
 
 ### P. Pelin Uyar
 - Photo: 
