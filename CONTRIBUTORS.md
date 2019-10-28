@@ -185,6 +185,7 @@
 - Location: İstanbul, Turkey
 - Bio: 💻 Software Developer .
 - Github: https://github.com/ismetbatansu
+***
 
 ### P. Pelin Uyar
 - Photo: 
@@ -429,3 +430,4 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+***
