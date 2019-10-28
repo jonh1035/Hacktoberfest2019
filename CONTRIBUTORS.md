@@ -197,6 +197,7 @@
 - Location: İstanbul, Turkey
 - Bio: 💻 Softwear Developer . 
 - Github: https://github.com/haticeerdagi
+***
 
 ### José Matheus do Nascimento Gama
 - Photo: https://avatars3.githubusercontent.com/u/50168539?s=460&v=4
