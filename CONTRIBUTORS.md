@@ -144,6 +144,7 @@
 - Location: Bangalore, India
 - Bio: UX Engineer
 - Github: https://github.com/itch96
+***
 
 ## Charlye
 - Photo: 
