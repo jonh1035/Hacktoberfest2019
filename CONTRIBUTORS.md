@@ -423,6 +423,7 @@
 - Location: Davis, California
 - Bio: Aspiring Software Engineer
 - Github: https://github.com/judyz01
+***
 
 ### Mark Wood
 - Photo: https://avatars1.githubusercontent.com/u/28037374?s=400&v=4
